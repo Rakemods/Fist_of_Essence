@@ -1,0 +1,16 @@
+{
+	"name": "Fist of Essence - Magic Mod",
+	"description": "Magic has invaded the land. Will your swords and arrows be enough to stop the Warlocks?!\n\nWith this Mod you can finally use Magic in the world of Conan.\nThe \"Fist of Essence\" is a weapon available for high level Exiles that seriously changes the gameplay and lessens the chance of Survival for others.\n\nAs of now the Fist features the following \"Magic Essences\"\n\nMeteor Blast - Very strong miniature meteor rips through Walls....and Flesh\nPoison Gas - Explosive burst of poison to ravage foes\nCorrupt Bomb - Shoot a corrupted rock into your enemies mists to defile them\nGuardian Wall - Shoot a Ghost Wall at your destination to stop attacks or climb on\nGrease Spill - Shoot a dark substance to slow down approaching enemies\nWarp Stone - Teleports to the projectiles destination\nNecro Stone - Spawns undead at the Projectiles location\nGod Dome - Use as a Weapon, swipe once to activate a small Avatar Dome around the user to block projectiles and Avatars\n\nThe mod also includes some Magic Extras that will make your server feel ready for RP!\n\nStaff of Inferno - Magical staff with strong Physical attack and the ability to\nshoot specific projectiles. These \"Spits\" are\"\n\nLava Spit - Shoots a fiery substance from the Staff\nVenom Spit - A poisonous saliva is projected at foes\nWeb Spit - A sticky substance used to stun foes\n\nThere is also a \"Gem Essence: These magical gems can be held in the off-hand and emit light and a buff for the holder\n\nMoon Rock - Emits Cold and a bluish light\nSun Rock - Emits Heat and an orangish light\nCleansing Gem - Emits a Corruption cleansing aura and a purplish light\n\nThe Fist of Essence and Staff of Inferno are so powerful the user of these relics is quickly corrupted by the essence as they use them. \nEnjoy!\n\nBrought Flying Morphs Back\n\nDragon Fly\nManticore\nAngel Wings\nDark Wings\nMist Form\n(Black Dragon is being worked on)\n\nThese Summons have a Durability Timer and will run out after awhile (50K Durability drains fast while Flying)\n\nNEW!!\n\nWarlock Guard\n\nWarlock is now Spawned from the Admin NPC List like a Thrall.\n\nHe will not move from his spot, so he will make a perfect Turret for a Base.\n\nIf he does not have at least 10 Essence in his Inventory he will disappear within an hour.\n\nHe uses 10 Essence as fuel every 10 seconds. So 1 Essence a second.\n\nThis Guard will fire a small explosive at enemies who come to close. \n\nMore Warlock Guard Types on the way!\n\nDiscord: Krysez Mods - https://discord.gg/tQUKbUH\nPatreon - https://patreon.com/Krysez",
+	"changeNote": "Updated to match current version\n\nModified Fist of Essence effect\nModified Flame Blast effect",
+	"author": "Krysez",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "1538520228",
+	"steamVisibility": 0,
+	"folderName": "Fist_of_Essence",
+	"revisionNumber": 188524,
+	"snapshotId": 22834
+}
